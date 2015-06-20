@@ -18,3 +18,9 @@ fyi the official ones:
 http://dn-dev-dji-front.qbox.me/assets/open/products/sdk/mobile-sdk/documentation/android/index.html
 
 http://dn-dev-dji-front.qbox.me/assets/open/products/sdk/mobile-sdk/documentation/ios/html/index.html
+
+---
+
+https://gist.github.com/lanyusea/d68fbd5bb8ccc4ac1b1a
+
+the temporary notes for recording before wiki ready
