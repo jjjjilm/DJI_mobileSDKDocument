@@ -24,3 +24,15 @@ http://dn-dev-dji-front.qbox.me/assets/open/products/sdk/mobile-sdk/documentatio
 https://gist.github.com/lanyusea/d68fbd5bb8ccc4ac1b1a
 
 the temporary notes for recording before wiki ready
+
+---
+
+Update June 26:
+
+DJI officially considered rebuild all mobile SDK documents.
+
+https://github.com/dji-sdk/mobile
+
+They told me they would host wiki items in Github and use their website iframe what is in Github.
+
+So I prefer wait and see. If that works, I will delete this repo.
